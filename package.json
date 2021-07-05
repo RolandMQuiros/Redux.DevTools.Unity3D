@@ -1,19 +1,13 @@
 {
-    "name": "redux.DevTools",
-    "version": "1.0.0-preview.1",
+    "name": "redux.devtools",
+    "version": "0.0.1-preview.1",
     "displayName": "Redux Dev Tools",
     "description": "A reimplementation of Redux and Redux Dev Tools in C# and Unity3d",
     "unity": "2019.1",
     "unityRelease": "0b5",
     "dependencies": {
-        "jillejr.newtonsoft.json-for-unity": "https://github.com/jilleJr/Newtonsoft.Json-for-Unity.git#upm",
+        "com.unity.nuget.newtonsoft-json": "2.0.0"
     },
-    "keywords": [
-        "Redux",
-        "Developer Tools",
-        "JSON",
-        "State Management"
-    ],
     "author": {
         "name": "Roland Quiros",
         "email": "rolandmquiros@gmail.com",

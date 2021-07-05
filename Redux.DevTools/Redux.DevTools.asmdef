@@ -2,7 +2,8 @@
     "name": "Redux.DevTools",
     "rootNamespace": "",
     "references": [
-        "jillejr.newtonsoft.json-for-unity",
+        "Redux",
+        "com.unity.nuget.newtonsoft-json",
         "wbish.JsonDiffPatchDotNet"
     ]
 }
