@@ -1,0 +1,13 @@
+{
+    "name": "Redux.DevToolsEditor",
+    "rootNamespace": "",
+    "references": [
+        "jillejr.newtonsoft.json-for-unity",
+        "wbish.JsonDiffPatchDotNet",
+        "Redux",
+        "Redux.DevTools"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ]
+}
